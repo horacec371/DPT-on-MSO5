@@ -44,3 +44,13 @@ IMPORTANT: Please kindly let us know when you find other licenses to be mentione
 * The https://github.com/libusb/libusb[libusb] library enables a USB connection between your PC and the MSO scope. See the https://pyvisa.readthedocs.io/projects/pyvisa-py/en/latest/installation.html#usb-resources-usb-instr-raw[detail]. To use a USB I/F, please place a libusb file in your "PATH".
 
 ..end of README
+
+## Reference using https://www.wenjianbaike.com/zh-tw/adoc.html[adoc] by Horace, 2023.06.12
+
+### 1. https://www.tek.com/en/products/reference-solutions/wide-bandgap-double-pulse[Wide Bandgap Double Pulse Reference Solution]
+
+### 2. https://www.tek.com/en/datasheet/wide-bandgap-double-pulse-test-analysis-455b6b-series-mso-option-4wbgdpt5wbgdpt6wbgdpt-application[4/5B Series MSO Option 4-WBG-DPT/5-WBG-DPTT Application Datasheet]
+
+### 3. https://www.tek.com/en/documents/application-note/double-pulse-test-tektronix-afg31000-arbitrary-function-generator[Double Pulse Testing for Power Semiconductor Devices with an Oscilloscope and Arbitrary Function Generator]
+
+
