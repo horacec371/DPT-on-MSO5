@@ -28,7 +28,7 @@ By installing or otherwise using or copying the Licensed Software, you expressly
 
 "Intellectual Property Rights" means any and all registered and unregistered rights granted, applied for, or otherwise now or hereafter in existence under or related to any patent, copyright, trademark, trade secret, database protection, or other intellectual property rights Laws, and all similar or equivalent rights or forms of protection, in any part of the world.
 
-"Licensed Software" means the Qorvo "Double Pulse Testing on Tektronix MSO5/6 Oscilloscope Example" Software of Licensor as provided to Licensee under this Agreement. Licensed Software also includes any additions, updates, and releases thereto issued by Licensor from time-to-time. Licensed Software may be provided in Object Code or Source Code form.
+"Licensed Software" means the Qorvo "Double Pulse Testing on Tektronix MSO5 Oscilloscope Example" Software of Licensor as provided to Licensee under this Agreement. Licensed Software also includes any additions, updates, and releases thereto issued by Licensor from time-to-time. Licensed Software may be provided in Object Code or Source Code form.
 
 "Licensee Product" means a product developed by Licensee embodying Licensee Software.
 
