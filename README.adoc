@@ -1,4 +1,4 @@
-= Qorvo Double Pulse Testing on Tektronix MSO5/6 Oscilloscope Example" Software
+= Qorvo Double Pulse Testing on Tektronix MSO5 Oscilloscope Example" Software
 
 ifndef::env-github[:icons: font]
 ifdef::env-github[]
