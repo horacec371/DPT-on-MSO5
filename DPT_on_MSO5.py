@@ -1,4 +1,4 @@
-# Reviewed and revised for MSO5X
+# Reviewed and revised for MSO5X by Horace, 2023.0.6.12
 import os
 import sys
 import time
