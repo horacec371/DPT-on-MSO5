@@ -17,7 +17,9 @@ https://www.tek.com/en/documents/application-note/double-pulse-testing-power-sem
 
 This command-line script takes user inputs to generate a DPT pulse sequence on your PC, to send it to an MSO5 scope, and to configure the scope for a DPT.
 
-The Windows **binary** is found in the https://github.com/Qorvo/DPT-on-MSO6/releases[release] page in the right pane.
+The Windows **binary** is found in the following link,
+
+https://github.com/horacec371/DPT-on-MSO5/tree/main/Windows%20binary
 
 == Licenses
 IMPORTANT: Please kindly let us know when you find other licenses to be mentioned here.
