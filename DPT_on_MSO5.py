@@ -1,3 +1,4 @@
+# Reviewed and revised for MSO5X
 import os
 import sys
 import time
