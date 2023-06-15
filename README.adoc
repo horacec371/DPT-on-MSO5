@@ -13,6 +13,7 @@ endif::[]
 == Overview
 This is a https://www.python.org[Python] script to perform a double pulse test (DPT) of a wide-bandgap transistors, like https://www.qorvo.com/[Qorvo]'s https://www.qorvo.com/feature/sic-power-products[SiC devices] or Gan devices, by using an installed AFG module on MSO5X oscilloscope.
 
+
 https://www.tek.com/en/documents/application-note/double-pulse-testing-power-semiconductor-devices-with-a-5-or-6-series-mso-with-built-in-afg
 
 This command-line script takes user inputs to generate a DPT pulse sequence on your PC, to send it to an MSO5 scope, and to configure the scope for a DPT.
